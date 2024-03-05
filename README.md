@@ -254,6 +254,12 @@ LL2->getRoutingTable(char *out);
 ```
  * `out` - a pointer to char array where routing table information can be written
 
+## To do
+- [ ] Abstract Layer 1 with Radio Lib
+- [ ] doxygen
+- [ ] Add support for ESP32 Wifi
+- [ ] Multi-radio routing
+
 ## License and copyright
 * Copyright 2020 Sudo Mesh
 * All files in this repository are dual-licensed under both GPLv3 and AGPLv3
