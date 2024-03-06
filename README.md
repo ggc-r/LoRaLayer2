@@ -255,7 +255,7 @@ LL2->getRoutingTable(char *out);
  * `out` - a pointer to char array where routing table information can be written
 
 ## To do
-- [ ] Abstract Layer 1 with Radio Lib
+- [ ] Create a HAL abstraction layer for radios and system hardware like timers
 - [ ] doxygen
 - [ ] Add support for ESP32 Wifi
 - [ ] Multi-radio routing
